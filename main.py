@@ -5,13 +5,6 @@ from food import Food
 from scoreboard import Scoreboard
 
 
-# Todo take user name and keep user score record.
-# Todo show highest score and current score at the end of the game.
-# Todo show user why he lose does he hit the wall or collide with his own body.
-# Todo ask user to choose the snake color.
-# Todo change the shape of the food to the actual fruit.
-# Todo add extra set of keys to operate snake.
-# Todo ask user to choose a level (set snake move time accordingly)
 
 
 screen = Screen()
@@ -62,3 +55,12 @@ while game_is_on:
 
 
 screen.exitonclick()
+
+
+# Todo take user name and keep user score record.
+# Todo show highest score and current score at the end of the game.
+# Todo show user why he lose does he hit the wall or collide with his own body.
+# Todo ask user to choose the snake color.
+# Todo change the shape of the food to the actual fruit.
+# Todo add extra set of keys to operate snake.
+# Todo ask user to choose a level (set snake move time accordingly)
