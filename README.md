@@ -1,2 +1,3 @@
 # SNAKE-GAME
-classic snake game
+classic snake game with python
+turtle library
